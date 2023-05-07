@@ -337,6 +337,42 @@
   - [ ] Allergy Testing
   - [ ] ARAM
 
+## 2013
+
+- Qualification Round
+  - [ ] Tic-Tac-Toe-Tomek
+  - [ ] Lawnmower
+  - [ ] Treasure
+  - [ ] Fair and Square
+- Round 1A
+  - [ ] Bullseye
+  - [ ] Manage your Energy
+  - [ ] Good Luck
+- Round 1B
+  - [ ] Osmos
+  - [ ] Garbled Email
+  - [ ] Falling Diamonds
+- Round 1C
+  - [ ] Consonants
+  - [ ] Pogo
+  - [ ] The Great Wall
+- Round 2
+  - [ ] Ticket Swapping
+  - [ ] Many Prizes
+  - [ ] Erdős–Szekeres
+  - [ ] Multiplayer Pong
+- Round 3
+  - [ ] Cheaters
+  - [ ] Rural Planning
+  - [ ] Are We Lost Yet?
+  - [ ] Observation Wheel
+- Final
+  - [ ] Graduation Requirements
+  - [ ] Drummer
+  - [ ] X Marks the Spot
+  - [ ] Can't Stop
+  - [ ] Let Me Tell You a Story
+
 ## 2
 
 - Qualification Round
