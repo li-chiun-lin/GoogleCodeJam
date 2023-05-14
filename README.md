@@ -445,7 +445,79 @@
   - [ ] Ace in the Hole
   - [ ] Google Royale
 
-## 2
+## 2010
+
+- Qualification Round
+  - [ ] Fair Warning
+  - [ ] Snapper Chain
+  - [ ] Theme Park
+- Round 1A
+  - [ ] Rotate
+  - [ ] Make it Smooth
+  - [ ] Number Game
+- Round 1B
+  - [ ] File Fix-it
+  - [ ] Picking Up Chicks
+  - [ ] Your Rank is Pure
+- Round 1C
+  - [ ] Rope Intranet
+  - [ ] Load Testing
+  - [ ] Making Chess Boards
+- Round 2
+  - [ ] Elegant Diamond
+  - [ ] World Cup 2010
+  - [ ] Bacteria
+  - [ ] Grazing Google Goats
+- Round 3
+  - [ ] De-RNG-ed
+  - [ ] Hot Dog Proliferation
+  - [ ] Different Sum
+  - [ ] Fence
+- Final
+  - [ ] Candy Store
+  - [ ] City Tour
+  - [ ] Letter Stamper
+  - [ ] Travel Plan
+  - [ ] Ninjutsu
+  - [ ] The Paths of Yin Yang
+
+## 2009
+
+- Qualification Round
+  - [ ] Alien Language
+  - [ ] Watersheds
+  - [ ] Welcome to Code Jam
+- Round 1A
+  - [ ] Multi-base happiness
+  - [ ] Crossing the Road
+  - [ ] Collecting Cards
+- Round 1B
+  - [ ] Decision Tree
+  - [ ] The Next Number
+  - [ ] Square Math
+- Round 1C
+  - [ ] All Your Base
+  - [ ] Center of Mass
+  - [ ] Bribe the Prisoners
+- Round 2
+  - [ ] Crazy Rows
+  - [ ] A Digging Problem
+  - [ ] Stock Charts
+  - [ ] Watering Plants
+- Round 3
+  - [ ] EZ-Sokoban
+  - [ ] Alphabetomials
+  - [ ] Football Team
+  - [ ] Interesting Ranges
+- Final
+  - [ ] Year of More Code Jam
+  - [ ] Min Perimeter
+  - [ ] Wi-fi Towers
+  - [ ] Doubly-sorted Grid
+  - [ ] Marbles
+  - [ ] Lights
+
+## 2008
 
 - Qualification Round
   - [ ] 1
