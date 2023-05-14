@@ -520,16 +520,49 @@
 ## 2008
 
 - Qualification Round
-  - [ ] 1
+  - [ ] Fly Swatter
+  - [ ] Saving the Universe
+  - [ ] Train Timetable
 - Round 1A
-  - [ ] 1
+  - [ ] Minimum Scalar Product
+  - [ ] Milkshakes
+  - [ ] Numbers
 - Round 1B
-  - [ ] 1
+  - [ ] Crop Triangles
+  - [ ] Number Sets
+  - [ ] Mousetrap
 - Round 1C
-  - [ ] 1
+  - [ ] Text Messaging Outrage
+  - [ ] Ugly Numbers
+  - [ ] Increasing Speed Limits
 - Round 2
-  - [ ] 1
+  - [ ] Cheating a Boolean Tree
+  - [ ] Triangle Areas
+  - [ ] Star Wars
+  - [ ] PermRLE
 - Round 3
-  - [ ] 1
+  - [ ] How Big Are the Pockets?
+  - [ ] Endless Knight
+  - [ ] Portal
+  - [ ] No Cheating
+- Semifinal APAC
+  - [ ] What are Birds?
+  - [ ] Apocalypse Soon
+  - [ ] Millionaire
+  - [ ] Modern Art Plagiarism
+- Semifinal AMER
+  - [ ] Mixing Bowls
+  - [ ] Test Passing Probability
+  - [ ] Code Sequence
+  - [ ] King
+- Semifinal EMEA
+  - [ ] Painting a Fence
+  - [ ] Scaled Triangle
+  - [ ] Rainbow Trees
+  - [ ] Bus Stops
 - Final
-  - [ ] 1
+  - [ ] Juice
+  - [ ] Ping Pong Balls
+  - [ ] Mine Layer
+  - [ ] Bridge Builders
+  - [ ] The Year of Code Jam
