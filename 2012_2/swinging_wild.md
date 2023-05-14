@@ -1,0 +1,13 @@
+# Problem
+
+You are standing on a ledge in the jungle, and your one true love is standing on a similar ledge at the other side of a swamp infested with snakes, crocodiles and a variety of other unpleasant denizens. Fortunately, there is a number of vines hanging from the canopy of the jungle over the swamp, even more fortunately, you somehow managed to get hold of the first of these vines (see figures below). The canopy of the jungle is at a constant height, and both the ledges are at the same height as the canopy. The vines are simply lines hanging from the canopy at certain points, with differing lengths.
+
+If you happened to be a fictional hero, you would just go swinging wildly and yelling, at some point let go of the vine you hold, fly in the air for some time, catch another vine, swing again, and after a few repetitions you would be holding your one true love in your arms. Unfortunately, you are not a fictional hero, and if you tried that, probably yelling would be the only part you would manage well.
+
+Your plan is a bit more cautious. You will swing on the vine you hold, but instead of letting go, you will catch hold of another vine. Then you will slowly and carefully climb up your original vine, so that the new vine you are holding will become horizontal - either to its full length, or up to the distance between the two vines, whichever is smaller. Then you will rest for a bit, and swing again, to repeat the process. Note that you do not have to catch the first vine you come up against while swinging, you might prefer to swing a bit further and catch some further-off vine instead. You can also climb up the vine you're currently swinging back and forth on to reduce the distance between you and the root of the vine. In effect, this means that you can catch any vine that your vine crosses while swinging. Note that you will not climb down a vine while swinging.
+
+One other thing that sets you apart from any fictional hero is that before you start the whole rather risky procedure you would like to know whether it is actually possible to reach the other side of the jungle this way. And this is the question you have to answer in this problem.
+
+## Input
+
+The first line of the input gives the number of test cases, T. T test cases follow. The first line of each test case contains the number N of vines. N lines describing the vines follow, each with a pair of integers di and li - the distance of the vine from your ledge, and the length of the vine, respectively. The last line of the test case contains the distance D to the ledge with your one true love. You start by holding the first vine in hand.

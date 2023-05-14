@@ -340,16 +340,16 @@
 ## 2013
 
 - Qualification Round
-  - [ ] Tic-Tac-Toe-Tomek
-  - [ ] Lawnmower
+  - [x] Tic-Tac-Toe-Tomek
+  - [x] Lawnmower
   - [ ] Treasure
   - [ ] Fair and Square
 - Round 1A
-  - [ ] Bullseye
-  - [ ] Manage your Energy
+  - [x] Bullseye
+  - [x] Manage your Energy
   - [ ] Good Luck
 - Round 1B
-  - [ ] Osmos
+  - [x] Osmos
   - [ ] Garbled Email
   - [ ] Falling Diamonds
 - Round 1C
@@ -372,6 +372,78 @@
   - [ ] X Marks the Spot
   - [ ] Can't Stop
   - [ ] Let Me Tell You a Story
+
+## 2012
+
+- Qualification Round
+  - [x] Speaking in Tongues
+  - [x] Dancing With the Googlers
+  - [ ] Recycled Numbers
+  - [ ] Hall of Mirrors
+- Round 1A
+  - [ ] Password Problem
+  - [ ] Kingdom Rush
+  - [ ] Cruise Control
+- Round 1B
+  - [ ] Safety in Numbers
+  - [ ] Tide Goes In, Tide Goes Out
+  - [ ] Equal Sums
+- Round 1C
+  - [ ] Diamond Inheritance
+  - [ ] Box Factory
+  - [ ] Out of Gas
+- Round 2
+  - [ ] Swinging Wild
+  - [ ] Aerobics
+  - [ ] Mountain View
+  - [ ] Descending in the Dark
+- Round 3
+  - [ ] Perfect Game
+  - [ ] Havannah
+  - [ ] Quality Food
+  - [ ] Lost Password
+- Final
+  - [ ] Zombie Smash
+  - [ ] Upstairs/Downstairs
+  - [ ] Xeno-archaeology
+  - [ ] Twirling Towards Freedom
+  - [ ] Shifting Paths
+
+## 2011
+
+- Qualification Round
+  - [ ] Bot Trust
+  - [ ] Candy Splitting
+  - [ ] Magicka
+  - [ ] GoroSort
+- Round 1A
+  - [ ] FreeCell Statistics
+  - [ ] The Killer Word
+  - [ ] Pseudominion
+- Round 1B
+  - [ ] RPI
+  - [ ] Revenge of the Hot Dogs
+  - [ ] House of Kittens
+- Round 1C
+  - [ ] Square Tiles
+  - [ ] Space Emergency
+  - [ ] Perfect Harmony
+- Round 2
+  - [ ] Airport Walkways
+  - [ ] Spinning Blade
+  - [ ] Expensive Dinner
+  - [ ] A.I. War
+- Round 3
+  - [ ] Irregular Cakes
+  - [ ] Dire Straights
+  - [ ] Perpetual Motion
+  - [ ] Mystery Square
+- Final
+  - [ ] Rains Over Atlantis
+  - [ ] Runs
+  - [ ] Program within a Program
+  - [ ] Ace in the Hole
+  - [ ] Google Royale
 
 ## 2
 
