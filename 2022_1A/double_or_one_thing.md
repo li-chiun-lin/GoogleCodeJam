@@ -9,3 +9,8 @@ $HELLOWORLD ⇒ HHELLLOWOORLLD$
 Similarly, if you highlight nothing, you obtain $HELLOWORLD$, and if you highlight all of the letters, you obtain $HHEELLLLOOWWOORRLLDD$. Notice how each occurrence of the same letter can be highlighted independently.
 
 Given a string, there are multiple strings that can be obtained as a result of this process, depending on the highlighting choices. Among all of those strings, output the one that appears first in alphabetical (also known as lexicographical) order.
+
+## Input
+
+The first line of the input gives the number of test cases, $T$. $T$ test cases follow.  
+Each test case is described in a single line containing a single string $S$.

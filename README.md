@@ -521,7 +521,7 @@
 
 - Qualification Round
   - [ ] Fly Swatter
-  - [ ] Saving the Universe
+  - [x] Saving the Universe
   - [ ] Train Timetable
 - Round 1A
   - [ ] Minimum Scalar Product

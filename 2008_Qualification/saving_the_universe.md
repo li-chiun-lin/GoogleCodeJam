@@ -10,8 +10,8 @@ Your task is to tell us how many times the central system will have to switch be
 
 ## Input
 
-The first line of the input file contains the number of cases, N. N test cases follow.
+The first line of the input file contains the number of cases, $N$. $N$ test cases follow.
 
-Each case starts with the number S -- the number of search engines. The next S lines each contain the name of a search engine. Each search engine name is no more than one hundred characters long and contains only uppercase letters, lowercase letters, spaces, and numbers. There will not be two search engines with the same name.
+Each case starts with the number $S$, the number of search engines. The next $S$ lines each contain the name of a search engine. Each search engine name is no more than one hundred characters long and contains only uppercase letters, lowercase letters, spaces, and numbers. There will not be two search engines with the same name.
 
-The following line contains a number Q -- the number of incoming queries. The next Q lines will each contain a query. Each query will be the name of a search engine in the case.
+The following line contains a number $Q$, the number of incoming queries. The next $Q$ lines will each contain a query. Each query will be the name of a search engine in the case.

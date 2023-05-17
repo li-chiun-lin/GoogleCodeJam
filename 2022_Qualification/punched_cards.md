@@ -2,11 +2,9 @@
 
 A secret team of programmers is plotting to disrupt the programming language landscape and bring punched cards back by introducing a new language called *Punched Card Python* that lets people code in Python using punched cards! Like good disrupters, they are going to launch a viral campaign to promote their new language before even having the design for a prototype. For the campaign, they want to draw punched cards of different sizes in ASCII art.
 
-The ASCII art of a punched card they want to draw is similar to an **R × C**
-matrix without the top-left cell. That means, it has **(R ⋅ C) − 1** cells in total. Each cell is drawn in ASCII art as a period (.) surrounded by dashes (-) above and below, pipes (|) to the left and right, and plus signs (+) for each corner. Adjacent cells share the common characters in the border. Periods (.) are used to align the cells in the top row.
+The ASCII art of a punched card they want to draw is similar to an **R × C** matrix without the top-left cell. That means, it has **(R ⋅ C) − 1** cells in total. Each cell is drawn in ASCII art as a period (.) surrounded by dashes (-) above and below, pipes (|) to the left and right, and plus signs (+) for each corner. Adjacent cells share the common characters in the border. Periods (.) are used to align the cells in the top row.
 
-For example, the following is a punched card with **R = 3**
-rows and **C = 4** columns:
+For example, the following is a punched card with **R = 3** rows and **C = 4** columns:
 
 ```text
 ..+-+-+-+
@@ -26,8 +24,7 @@ The first line of the input gives the number of test cases, **T**. **T** lines f
 
 ### Output
 
-For each test case, output one line containing Case #***x***
-:, where ***x*** is the test case number (starting from 1). Then, output **(2 ⋅ R) + 1** additional lines with the ASCII art drawing of a punched card with **R** rows and **C** columns.
+For each test case, output one line containing Case #***x***:, where ***x*** is the test case number (starting from 1). Then, output **(2 ⋅ R) + 1** additional lines with the ASCII art drawing of a punched card with **R** rows and **C** columns.
 
 ## Sample input
 
